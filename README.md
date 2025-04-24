@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anıl Tümer.</h1>
 <h3 align="center">I am an electrical-electronics engineer in Türkiye and I develop software and design electronic circuits with C++.</h3>
 
-- 🔭 I’m currently working on **SmartHomeApp**
+- 🔭 I’m currently working on [SmartHomeApp](https://github.com/AnilTumer/Akilli-Ev-Sistemi)
 
 - 🌱 I’m currently learning **C++,C# and Python**
 
