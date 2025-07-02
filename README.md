@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++ and Electronic**
 
-- 👨‍💻 My Web Site: [ANILTÜMER](https://tumi0606.wixsite.com/aniltumer)
+- 👨‍💻 My Web Site: [ANILTÜMER](https://www.aniltumer.com/)
 
 - 📫 How to reach me **tumi06@windowslive.com**
 
